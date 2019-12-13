@@ -1,10 +1,15 @@
 # Airbnb Berlin Data
 
+Analysis of Airbnb data from Berlin
+
 ### Data
 
-The data used in this notebook was sourced from the Inside Airbnb website. I will analyze two sets of data, one called 'listings' which has information about the available Airbnb rentals in Berlin, their respective neighbourhoods and roomtypes as well as their price per night and another dataset called 'reviews_summary' which contains every available review/comment for each of the rental spaces.
+The data used in this project was sourced from the Inside Airbnb website. I will analyze two sets of data, one called 'listings' which has information about the available Airbnb rentals in Berlin, their respective neighbourhoods and roomtypes as well as their price per night and another dataset called 'reviews_summary' which contains every available review/comment for each of the rental spaces.
 
-It can be downloaded here: https://www.kaggle.com/brittabettendorf/berlin-airbnb-data
+
+The data can be downloaded here: https://www.kaggle.com/brittabettendorf/berlin-airbnb-data
+
+(listings.csv and reviews_summary.csv)
 
 ### Objectives
 
