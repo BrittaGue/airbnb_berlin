@@ -16,3 +16,9 @@ The data can be downloaded here: https://www.kaggle.com/brittabettendorf/berlin-
 1. Find out which neighbourhood is (on average) the most expensive in Berlin (listings dataset)
 2. Find the adjectives that are being used the most in the comments - do visitors describe their experience positively or negatively? (reviews_summary dataset)
 3. Find the neighbourhood with the highest ‚greatness-score‘ (comments containing the word ‚great‘ divided by the sum of comments - for each neighbourhood, listings & reviews_summary dataset)
+
+### Code
+
+This is a python jupyter notebook
+
+https://github.com/BrittaGue/airbnb_berlin/blob/master/Airbnb_Berlin_data.ipynb
